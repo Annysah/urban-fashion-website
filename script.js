@@ -17,5 +17,5 @@ function slider() {
     }
     sliderImg.src = images[i];
     i++;
-    setTimeout('slider()', 3000);
+    setTimeout('slider()', 2000);
 }
